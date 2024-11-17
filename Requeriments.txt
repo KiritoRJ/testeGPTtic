@@ -1,0 +1,4 @@
+flask==2.3.3
+openai==0.27.10
+gunicorn==21.2.0
+waitress==2.1.2
