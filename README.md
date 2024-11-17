@@ -1,2 +1,0 @@
-# testeGPTtic
-Servidor Whatspp teste
